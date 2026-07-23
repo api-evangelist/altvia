@@ -1,7 +1,12 @@
 aid: altvia
-name: altvia
-description: altvia is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Altvia
+description: Altvia is fund management software purpose-built for private capital markets, serving private
+  equity, venture capital, fund of funds, real estate, hedge funds, family offices, and placement agents.
+  Built on the Salesforce platform, Altvia unifies a purpose-built CRM, a virtual data room (VDR) and LP
+  investor portal, analytics and reporting, and an AI assistant (AIMe) into one system that spans the full
+  fund lifecycle — capital raising, investor relations, and deal management. Founded in 2006 and based in
+  Broomfield, Colorado, Altvia was acquired by Marlin Equity Partners in 2022. The company exposes no
+  public developer/API portal; integrations are delivered through the platform and the Salesforce ecosystem.
 url: https://raw.githubusercontent.com/api-evangelist/altvia/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +14,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://altvia.com/wp-content/themes/Altvia/favicon.png?v=2
 tags:
 - Company
+- CRM
+- Private Equity
+- Venture Capital
+- Fund Management
+- Investor Relations
+- Alternative Investments
+- Salesforce
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,20 @@ maintainers:
 common:
 - type: Website
   url: https://altvia.com/
+- type: Blog
+  url: https://altvia.com/blog/
+- type: Support
+  url: https://altvia.com/get-support/
+- type: PrivacyPolicy
+  url: https://altvia.com/privacy-policy/
+- type: TrustCenter
+  url: https://trust.altvia.com/
+- type: DomainSecurity
+  url: security/altvia-domain-security.yml
+- type: LLMsTxt
+  url: llms/altvia-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

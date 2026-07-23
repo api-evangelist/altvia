@@ -1,0 +1,29 @@
+# Altvia
+
+> Altvia is fund management software purpose-built for private capital markets — private equity, venture capital, fund of funds, real estate, hedge funds, family offices, and placement agents. Built on the Salesforce platform, it unifies CRM, a virtual data room (VDR) and LP investor portal, analytics/reporting, and an AI assistant (AIMe) into one system spanning fundraising, investor relations, and deal management. Altvia has no public developer/API portal; integrations are delivered through the platform and Salesforce ecosystem.
+
+## Company
+- Website: https://altvia.com/
+- Platform overview: https://altvia.com/platform/
+- CRM: https://altvia.com/crm/
+- About: https://altvia.com/about-us/
+
+## Products
+- CRM — relationship and workflow management for LP tracking and engagement
+- VDR & LP Portal — secure document sharing and investor portal (ShareSecurely)
+- Analytics — performance dashboards and data intelligence
+- AIMe — AI assistant for private capital teams
+
+## Resources
+- Resource Center: https://altvia.com/resource-center/
+- Blog: https://altvia.com/blog/
+- Support: https://altvia.com/get-support/
+- Demo request: https://altvia.com/demo-request/
+- Contact: https://altvia.com/contact-us/
+
+## Trust & Legal
+- Trust Center: https://trust.altvia.com/
+- Privacy Policy: https://altvia.com/privacy-policy/
+
+## Notes
+- No public REST/GraphQL API, OpenAPI, SDKs, or developer documentation were found (July 2026). This profile is identity + security posture only; it will be re-run by the enrichment pipeline if a developer surface appears.
