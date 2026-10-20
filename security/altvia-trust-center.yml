@@ -1,0 +1,11 @@
+name: Altvia trust center
+generated: '2026-10-20'
+method: searched
+source: https://trust.altvia.com/
+url: https://trust.altvia.com/
+certifications:
+- SOC 2
+documents:
+- Altvia 2026 PenTest Attestation (on request)
+- Acceptable Use Policy (on request)
+note: Rendered trust center (JS); reports gated behind "Request access".
